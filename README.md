@@ -7,6 +7,8 @@
 - @demo
   - https://8888-uijavascript-demoantvg2f-kzrwfkq5nw7.ws-eu38.gitpod.io/s2.html
 
+![](https://luo0412.oss-cn-hangzhou.aliyuncs.com/1647519437850.png)
+
 # 使用
 
 - nodejs: `v12.13.0`
