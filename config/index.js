@@ -9,9 +9,8 @@ export default {
 
 
     // 路径写法示例
-    entry: './__demo/**/*.{js,tsx}',
+    // entry: './__demo/**/*.{js,tsx}',
     // entry: './__demo/*.js',
     // entry: './__demo/module/*.{js,tsx}',
-
-  
+    entry: './_s2/*.js',
 }

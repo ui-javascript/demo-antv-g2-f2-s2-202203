@@ -1,6 +1,8 @@
 # README
 
-基于umi-plugin-mpa简单配置一下
+- @code
+  - https://github.com/ui-javascript/demo-antv-g2-f2-s2-202203
+  - https://uijavascript-demoantvg2f-kzrwfkq5nw7.ws-eu38.gitpod.io/
 
 # 使用
 
