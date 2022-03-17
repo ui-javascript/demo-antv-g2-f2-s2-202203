@@ -4,6 +4,9 @@
   - https://github.com/ui-javascript/demo-antv-g2-f2-s2-202203
   - https://uijavascript-demoantvg2f-kzrwfkq5nw7.ws-eu38.gitpod.io/
 
+- @demo
+  - https://8888-uijavascript-demoantvg2f-kzrwfkq5nw7.ws-eu38.gitpod.io/s2.html
+
 # 使用
 
 - nodejs: `v12.13.0`
